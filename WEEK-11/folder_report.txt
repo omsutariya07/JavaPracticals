@@ -1,0 +1,43 @@
+FOLDER REPORT
+====================
+
+File Name: file1.txt
+Path: myfolder\file1.txt
+Size: 40 bytes
+Modified: 2026-10-05T16:38:16.170952Z
+--------------------
+File Name: file1.txt.txt
+Path: myfolder\file1.txt.txt
+Size: 0 bytes
+Modified: 2026-10-05T16:36:36.0002387Z
+--------------------
+File Name: file2.txt
+Path: myfolder\file2.txt
+Size: 40 bytes
+Modified: 2026-10-05T16:38:16.173121Z
+--------------------
+File Name: file2.txt.txt
+Path: myfolder\file2.txt.txt
+Size: 0 bytes
+Modified: 2026-10-05T16:36:58.5004365Z
+--------------------
+File Name: file3.txt
+Path: myfolder\subfolder\file3.txt
+Size: 40 bytes
+Modified: 2026-10-05T16:38:16.1741208Z
+--------------------
+File Name: file3.txt.txt
+Path: myfolder\subfolder\file3.txt.txt
+Size: 0 bytes
+Modified: 2026-10-05T16:37:19.3769068Z
+--------------------
+File Name: file4.txt
+Path: myfolder\subfolder\file4.txt
+Size: 40 bytes
+Modified: 2026-10-05T16:38:16.1771208Z
+--------------------
+File Name: file4.txt.txt
+Path: myfolder\subfolder\file4.txt.txt
+Size: 0 bytes
+Modified: 2026-10-05T16:37:37.5939713Z
+--------------------

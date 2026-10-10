@@ -1,0 +1,3 @@
+Server started
+User logged in
+ERROR: Invalid password
