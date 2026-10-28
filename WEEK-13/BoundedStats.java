@@ -21,4 +21,4 @@ public class BoundedStats {
         System.out.println("Double average: " + average(doubles));
         System.out.println("Long average: " + average(longs));
     }
-}
+} 
